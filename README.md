@@ -1,1 +1,1 @@
-# WebscrapingScrips-PbTech
+# WebscrapingScripts-PbTech
